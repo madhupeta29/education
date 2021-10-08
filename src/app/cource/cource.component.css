@@ -1,0 +1,15 @@
+.cource{
+    background-color: aqua;
+    padding: 50px 100px;
+}
+.box
+{
+    background-color: #ffff;
+    padding: 10px 20px;
+}
+@media screen and(max-width:600px) {
+    .cource{
+        background-color: aqua;
+        padding: 50px 10px;
+    }
+}
